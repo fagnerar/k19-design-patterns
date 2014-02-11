@@ -1,0 +1,61 @@
+#titulo {
+	float: left;
+	margin: 10px 0 0 10px;
+	font-size: 20px;
+	color: #696969;
+}
+
+#logo {
+	display: inline-block;
+	margin-top: 5px;
+	vertical-align: top;
+}
+
+#nomes {
+	display: inline-block;
+	margin: 10px 0 0 10px;
+	font-size: 14px;
+}
+
+#slogan {
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+#message {
+	padding: 10px 10px 10px 20px;
+}
+
+#container {
+	width: 800px;
+	margin: 10px auto;
+}
+
+caption {
+	font-size: 18px; 
+	font-weight: bold;	
+}
+
+.inline {
+	display: inline-block;
+	margin: 10px 10px 10px 0;
+	vertical-align: top;
+}
+
+#pager {
+	margin: 0;
+	text-align: center;
+	font-weight: bold;
+	list-style: none inside;
+}
+
+#pager li {
+	display: inline-block;
+}
+
+#footer {
+	margin: 20px 0;
+	padding: 20px 0 0 0;
+	text-align: center;
+}
